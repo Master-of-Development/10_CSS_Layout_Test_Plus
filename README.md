@@ -1,7 +1,7 @@
 # 모드 동아리 열번째 과제
 - 
 
-![main]()
+![main](file:///C:/Users/webskills/Desktop/images/preview.droitthemes.net_wp_zix_home-02_.png)
 
 
 
