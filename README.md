@@ -1,8 +1,7 @@
 # 모드 동아리 열번째 과제
 - 
 
-![main](file:///C:/Users/webskills/Desktop/images/preview.droitthemes.net_wp_zix_home-02_.png)
-
+![preview droitthemes net_wp_zix_home-02_](https://user-images.githubusercontent.com/89061456/180349762-e0a50f02-b49b-4042-9a1d-7a88857cdf2e.png)
 
 
 ### 제출방법
